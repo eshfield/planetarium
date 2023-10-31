@@ -11,7 +11,7 @@
   "addPlanetFormOrbitalSpeed": "Orbital Speed",
   "addPlanetFormOrbitalSpeedUnits": "km/s",
   "addPlanetFormSubmitButtonTitle": "Add a planet",
-  "colorChooserHeading": "Select color",
+  "addPlanetFormColorChooserHeading": "Select a color",
   "addPlanetFormFieldErrorEmpty": "Can't be empty",
   "addPlanetFormFieldErrorInvalid": "Invalid value",
   "addPlanetFormFieldErrorNegative": "Can't be negative",

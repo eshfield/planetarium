@@ -28,7 +28,7 @@ class ColorChooser extends StatelessWidget {
               height: 48,
               borderRadius: 4,
               heading: Text(
-                l10n.colorChooserHeading,
+                l10n.addPlanetFormColorChooserHeading,
                 style: Theme.of(context).textTheme.titleLarge,
               ),
               showColorName: true,
