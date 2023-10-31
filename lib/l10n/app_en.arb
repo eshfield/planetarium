@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "playerScreenTitle": "Planetarium",
+  "playerScreenFABLabel": "Add a planet",
+  "addPlanetScreenTitle": "Add a planet",
+  "addPlanetFormTitle": "Add a planet",
+  "addPlanetFormRadius": "Radius",
+  "addPlanetFormRadiusUnits": "km",
+  "addPlanetFormDistanceToSun": "Distance to Sun",
+  "addPlanetFormDistanceToSunUnits": "km",
+  "addPlanetFormOrbitalSpeed": "Orbital Speed",
+  "addPlanetFormOrbitalSpeedUnits": "km/s",
+  "addPlanetFormSubmitButtonTitle": "Add a planet",
+  "colorChooserHeading": "Select color",
+  "addPlanetFormFieldErrorEmpty": "Can't be empty",
+  "addPlanetFormFieldErrorInvalid": "Invalid value",
+  "addPlanetFormFieldErrorNegative": "Can't be negative",
+  "addPlanetFormFieldErrorZero": "Can't be zero"
+}
