@@ -16,7 +16,7 @@
 - Formz
 
 ## Скриншоты
-![Screenshots](resources/screenshots.jpg)
+![Screenshots](resources/screenshots.png)
 
 ## Видео работы приложения
 [→ Смотреть](https://drive.google.com/file/d/1E9UT75VFJPDfK4-cgMGGKWF8kWeJnJ5D/view)
