@@ -27,6 +27,7 @@ class _SolarSystemState extends State<SolarSystem> {
 
   @override
   void initState() {
+    super.initState();
     graphicsEngine = GraphicsEngine();
     // time stream to emit timestamps (milliseconds) with a given frequency
     timeStream = Stream.periodic(
@@ -39,7 +40,6 @@ class _SolarSystemState extends State<SolarSystem> {
       timeNotifier.value = timestamp;
     });
     timeStreamSubscription.pause();
-    super.initState();
   }
 
   @override

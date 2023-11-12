@@ -21,12 +21,12 @@ class _PlayButtonState extends State<PlayButton>
 
   @override
   void initState() {
+    super.initState();
     playController = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 150),
     );
     playAnimation = Tween(begin: 0.0, end: 1.0).animate(playController);
-    super.initState();
   }
 
   @override
