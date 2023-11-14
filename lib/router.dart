@@ -20,6 +20,6 @@ final router = GoRouter(
     GoRoute(
       path: AppRoutes.addPlanet.path,
       builder: (_, __) => const AddPlanetScreen(),
-    )
+    ),
   ],
 );
